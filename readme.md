@@ -13,8 +13,8 @@
 >>
 >> flask run
 
-###### .env file
-ENDPOINT - Azure DB Endpoint
-USERN - Azure DB Database_name
-PASSWORD - Azure DB Primary_key
-BUCKET - Google cloud bucket
+#### .env file
+ENDPOINT - Azure DB Endpoint<br>
+USERN - Azure DB Database_name<br>
+PASSWORD - Azure DB Primary_key<br>
+BUCKET - Google cloud bucket<br>
