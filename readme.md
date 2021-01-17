@@ -3,7 +3,6 @@
 > #### Working
 >
 > - Create a virtualenv.
-> - enter the following
 >
 >> pip install -r requirements.py
 >>
